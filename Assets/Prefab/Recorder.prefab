@@ -47,6 +47,7 @@ MonoBehaviour:
   ghostChara: {fileID: 0}
   maxDataNum: 2000000
   recordDuration: 0.02
+  ghost0: {fileID: 4546511359713946491, guid: 74cbce638eaca1e4bbea2ecf43daadcf, type: 3}
   ghost: {fileID: 0}
   ghost2: {fileID: 0}
   ghost3: {fileID: 0}
